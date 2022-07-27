@@ -1,0 +1,7 @@
+test.pa*
+SIMION-8.1/
+.idea/
+**/__pycache__/
+*.ipynb
+*.pa*
+*.png
